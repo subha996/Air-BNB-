@@ -22,6 +22,18 @@ The main objective of the project includes :
 
 •	Deployment of the project on Power-BI Service.
 
-<h1 align="center"> Application Architecture<h1>
+### Application Architecture
   
 ![image](https://user-images.githubusercontent.com/85347886/141774485-ccc3f560-7b0c-4939-b49f-aba7fa7f8c6c.png)
+
+
+### Flow
+
+![data_flow](https://user-images.githubusercontent.com/85347886/141774700-6757748f-cf99-4cf9-b9ba-43818baabd20.png)
+
+
+# Dashboard
+
+![dashboard1](https://user-images.githubusercontent.com/85347886/141774742-b53d785f-eced-43ea-a453-23f884a682f3.png)
+
+
