@@ -23,4 +23,5 @@ The main objective of the project includes :
 •	Deployment of the project on Power-BI Service.
 
 <h1 align="center"> Application Architecture<h1>
+  
 ![image](https://user-images.githubusercontent.com/85347886/141774485-ccc3f560-7b0c-4939-b49f-aba7fa7f8c6c.png)
