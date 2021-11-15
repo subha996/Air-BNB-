@@ -11,8 +11,13 @@ The main problem statement is to explore the Travel dataset which includes multi
 The main objective of the project includes :
 
 •	Analyzing raw dataset.
+
 •	Perform data cleaning and pre-processing operations on the raw data.
+
 •	Using Power-BI ETL tool to preprocess the raw data.
+
 •	Building visualizations on the cleaned features using a BI tool(Power-BI).
+
 •	Find different Research Questions and Find the answers from data.
+
 •	Deployment of the project on Power-BI Service.
